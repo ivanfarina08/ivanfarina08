@@ -29,15 +29,13 @@
    <img  width="10%" height="80px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
 </div>
  
- ### I'm updating:  :books:
+### Studying in this moment:  :books:
 <div>
   <img  width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img  width="10%" height="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" />
   <img  width="10%" height="90px" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png" />
 </div>
 
-                                                                                                                             
-### Studying in this moment:
 
 
 <div align="center">
