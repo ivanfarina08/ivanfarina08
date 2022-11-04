@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C768F&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=03F700&center=true&width=1000&height=71&lines=Hello%2C+I'm+Ivan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=03F700&center=true&width=435&height=71&lines=Hello%2C+I'm+Ivan)](https://git.io/typing-svg)
  
 
 
 <div align="center">  
- <p align="center"> <img height="244" width=45%  src="https://github-readme-stats.vercel.app/api?username=ivanfarina08&show_icons=true" alt="Tiago2lucas"/>
+ <p align="center"> <img height="244" width=45%  src="https://github-readme-stats.vercel.app/api?username=ivanfarina08&show_icons=true&layout=compact&title_color=07EE46&text_color=07EE46&bg_color=000000" alt="ivanfarina08"/>
    <img height="244" width=45%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanfarina08&layout=compact&title_color=07EE46&text_color=07EE46&bg_color=000000" />
  </div>
 
@@ -14,11 +14,11 @@
 ### Contatos: :fax:
 
 <div>
-<a href = "mailto:tiagodop001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:ivan.farina1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/tiago-lucas-558000253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/Tiago2lucas/Tiago2lucas/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ivanfarina08/ivanfarina08/blob/output/github-contribution-grid-snake.svg)
 
 ### Main skills:  :pushpin:
 <div>
