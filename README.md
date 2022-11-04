@@ -33,13 +33,7 @@
 <div>
   <img  width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img  width="10%" height="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" />
-  <img  width="10%" height="90px" src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />
-</div>
-
-### Tools:
-<div>
-  <img width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-  <img  width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img  width="10%" height="90px" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png" />
 </div>
 
                                                                                                                              
