@@ -23,23 +23,22 @@
 
 ### Main skills:  :pushpin:
 <div>
-   <img width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
-  <img width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />    
-<img  width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
- </div>
+   <img width="10%" height="90px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
+   <img width="10%" height="90px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" />    
+   <img  width="10%" height="80px" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" />
+</div>
  
  ### I'm updating:  :books:
- <div>
-            <img  width="10%" height="90px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-            <img  width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-          </div>
+<div>
+  <img  width="10%" height="90px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img  width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+</div>
 
 ### Tools:
 <div>
   <img width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
   <img  width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-        </div>
+</div>
 
                                                                                                                              
 ### Studying in this moment:
