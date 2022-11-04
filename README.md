@@ -26,12 +26,14 @@
    <img width="10%" height="90px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
    <img width="10%" height="90px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" />    
    <img  width="10%" height="80px" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" />
+   <img  width="10%" height="80px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
 </div>
  
  ### I'm updating:  :books:
 <div>
-  <img  width="10%" height="90px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img  width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img  width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img  width="10%" height="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" />
+  <img  width="10%" height="90px" src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />
 </div>
 
 ### Tools:
