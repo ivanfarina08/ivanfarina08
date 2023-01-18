@@ -10,7 +10,6 @@
     <img height="245" width=45%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanfarina08&layout=compact&title_color=07EE46&text_color=07EE46&bg_color=000000" />
  </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ivanfarina08&theme=gotham&hide_border=true&area=true_color=&title_color=07EE46&bg_color=000000&color=07EE46) 
 
 ### Contatos: :fax:
 
