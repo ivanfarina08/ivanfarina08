@@ -1,14 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07EE46&height=120&section=header"/>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=03F700&center=true&width=1000&height=71&lines=Hello%2C+I'm+Ivan;Welcome+to+my+home+page;Feel+free+to+check)](https://git.io/typing-svg)
- 
-
-
-<div align="center">  
- <p align="center"> 
-    <img height="245" width=45%  src="https://github-readme-stats.vercel.app/api?username=ivanfarina08&layout=compact&title_color=07EE46&text_color=07EE46&bg_color=000000" alt="ivanfarina08 "/>
-    <img height="245" width=45%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanfarina08&layout=compact&title_color=07EE46&text_color=07EE46&bg_color=000000" />
- </div>
 
 
 ### Contatos: :fax:
