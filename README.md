@@ -16,7 +16,7 @@
  <img width="10%" height="90px" src="https://cdn.iconscout.com/icon/free/png-512/free-angular-2038881-1720094.png?f=webp&w=256" title="Angular"/>
  <img  width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript"/>
  <img width="10%" height="90px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" title="Bootstrap"/>
- <img  width="10%" height="90px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" title="PHP"/> 
+ <img  width="10%" height="90px" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" title="Wordpress / PHP"/> 
 </div>
  
 ### Studying in this moment:  :books:
