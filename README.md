@@ -16,16 +16,14 @@
 <div>
  <img width="10%" height="90px" src="https://cdn.iconscout.com/icon/free/png-512/free-angular-2038881-1720094.png?f=webp&w=256" title="Angular"/>
  <img  width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript"/>
- <img width="10%" height="90px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" title="HTML5"/>
- <img width="10%" height="90px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" title="Bootstrap"/>    
- <img  width="10%" height="80px" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" title="CSS"/>
+ <img width="10%" height="90px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" title="Bootstrap"/>
  <img  width="10%" height="80px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" title="PHP"/> 
 </div>
  
 ### Studying in this moment:  :books:
 <div>
-  <img  width="10%" height="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" />
-  <img  width="10%" height="90px" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png" />
+ <img  width="10%" height="90px" src="https://w7.pngwing.com/pngs/713/936/png-transparent-spring-framework-representational-state-transfer-java-api-for-restful-web-services-microservices-others-text-trademark-logo.png" title="Java Spring"/>
+ <img  width="10%" height="90px" src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" title="Python Flask"/>
 </div>
 
 
