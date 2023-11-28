@@ -22,8 +22,8 @@
  
 ### Studying in this moment:  :books:
 <div>
- <img  width="10%" height="90px" src="https://w7.pngwing.com/pngs/713/936/png-transparent-spring-framework-representational-state-transfer-java-api-for-restful-web-services-microservices-others-text-trademark-logo.png" title="Java Spring"/>
- <img  width="10%" height="90px" src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" title="Python Flask"/>
+ <img  width="10%" height="90px" src="https://spring.io/img/og-spring.png" title="Java Spring"/>
+ <img  width="10%" height="90px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.png" title="Python Flask"/>
 </div>
 
 
