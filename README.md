@@ -13,7 +13,8 @@
 
 ### Main skills:  :pushpin:
 <div>
- <img width="" height="90px" src="https://cdn.iconscout.com/icon/free/png-512/free-angular-2038881-1720094.png?f=webp&w=256" title="Angular"/>
+ <img width="" height="90px" src="https://cdn-icons-png.flaticon.com/256/174/174854.png" title="HTML"/>
+ <img width="" height="90px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" title="CSS"/>
  <img  width="" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript"/>
  <img width="" height="90px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" title="Bootstrap"/>
  <img  width="" height="90px" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" title="Wordpress / PHP"/> 
@@ -21,8 +22,8 @@
  
 ### Studying in this moment:  :books:
 <div>
- <img  width="" height="90px" src="https://spring.io/img/og-spring.png" title="Java Spring"/>
- <img  width="" height="90px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.png" title="Python Flask"/>
+ <img  width="" height="90px" src="https://www.django-rest-framework.org/img/logo.png" title="Django REST API"/>
+ <img  width="" height="90px" src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" title="Python Flask"/>
 </div>
 
 
